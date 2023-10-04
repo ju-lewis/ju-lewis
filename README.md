@@ -7,10 +7,10 @@
 
 I'm a first year student at the University of Melbourne majoring in <strong>Computing and Software Systems</strong> 💻
 
-Currently my interest is completely split between system programming and web development - with much of my course material (and subsequently projects) being algorithm-focused :&#8203;)
+Currently my programming interest is completely split between system programming and web development - with much of my course material (and subsequently projects) being algorithm-focused :&#8203;)
 
 
-
+---
 
 <!-- Main Languages -->
 
