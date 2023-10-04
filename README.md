@@ -1,16 +1,26 @@
-### Hi there 👋
+<!-- Main Heading -->
+<h1 align="center">Heyo! I'm Julian</h1>
 
-<!--
-**ju-lewis/ju-lewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- Intro Paragraph -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first year student at the University of Melbourne majoring in <strong>Computing and Software Systems</strong> 💻
+
+Currently my interest is completely split between system programming and web development - with much of my course material (and subsequently projects) being algorithm-focused :&#8203;)
+
+
+
+
+<!-- Main Languages -->
+
+<div align="center">
+
+| Main Languages / Skills | I'm Currently Learning |
+|:-----------------------:|:----------------------:|
+|          Python         |         Svelte         |
+|          C/C++          |          Typst         |
+|        Javascript       |         Rust 🦀        |
+|          MySQL          |                        |
+
+</div>
