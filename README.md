@@ -20,7 +20,9 @@ Currently my programming interest is completely split between embedded programmi
 |:-----------------------:|:----------------------:|
 |          Python         |         Svelte         |
 |          C/C++          |          Typst         |
-|        Javascript       |         Rust 🦀        |
+|        Javascript       |                        |
 |          MySQL          |                        |
+|          Rust           |                        |
+|        MongoDB          |                        |
 
 </div>
