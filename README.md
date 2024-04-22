@@ -21,7 +21,7 @@ Currently my programming interest is completely split between embedded programmi
 |          Python         |          ReactJS       |
 |          C/C++          |           Java         |
 |        Typescript       |                        |
-|     MySQL + Sqlite      |                        |
+|     MySQL + SQLite      |                        |
 |          Rust           |                        |
 |        MongoDB          |                        |
 
