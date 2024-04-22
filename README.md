@@ -7,7 +7,7 @@
 
 I'm a second year student at the University of Melbourne majoring in <strong>Computing and Software Systems</strong> 💻
 
-Currently my programming interest is completely split between embedded programming and web development - with much of my course material (and subsequently projects) being algorithm-focused :&#8203;)
+Currently my programming interest is completely split between embedded programming and web development - although most of my latest projects definitely focus on the latter :&#8203;)
 
 
 ---
@@ -19,9 +19,9 @@ Currently my programming interest is completely split between embedded programmi
 | Main Languages / Skills | I'm Currently Learning |
 |:-----------------------:|:----------------------:|
 |          Python         |          ReactJS       |
-|          C/C++          |                        |
+|          C/C++          |           Java         |
 |        Typescript       |                        |
-|          MySQL          |                        |
+|     MySQL + Sqlite      |                        |
 |          Rust           |                        |
 |        MongoDB          |                        |
 
